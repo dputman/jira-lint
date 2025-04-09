@@ -39,4 +39,4 @@ runs:
   main: 'lib/index.js'
 branding:
   icon: 'check-square'
-  color: 'blue'
+  color: 'green'
